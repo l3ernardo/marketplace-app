@@ -1,0 +1,9 @@
+[submodule "services/api-gateway"]
+	path = services/api-gateway
+	url = https://github.com/l3ernardo/api-gateway.git
+[submodule "services/shared-scrips"]
+	path = services/shared-scrips
+	url = https://github.com/l3ernardo/shared-scrips.git
+[submodule "services/shared-scripts"]
+	path = services/shared-scripts
+	url = https://github.com/l3ernardo/shared-scrips.git

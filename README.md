@@ -17,4 +17,6 @@ This repo contains all the instructions with codes for the marketplace applicati
 * The `volumes` folder contains files that are used to run services for local development.
 * [Volumes README file](https://github.com/uzochukwueddie/jobberapp/blob/main/volumes/README.md)
 
-### Building the project
+### Building the projects
+* run: docker compose up -d redis mongodb mysql postgres rabbitmq elasticsearch kibana
+

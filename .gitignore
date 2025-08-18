@@ -4,4 +4,4 @@ dist
 build
 secrets.md
 docker-volumes
-services
+shared-scrips

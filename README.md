@@ -1,11 +1,11 @@
 This repo contains all the instructions with codes for the marketplace application.
 
 ### Jobber Client
-* The `jobber-client` folder contains the frontend code.
+* The `client` folder contains the frontend code.
 * The frontend application is built using `React`, `Typescript` and `Tailwindcss`.
 
 ### Kubernetes
-* The `jobber-k8s` folder contains the objects code needed to deploy the microservices to kubernetes.
+* The `k8s` folder contains the objects code needed to deploy the microservices to kubernetes.
 * The microservices are deployed to both `Minikube` and `AWS EKS Cluster`.
 
 ### Microservices
